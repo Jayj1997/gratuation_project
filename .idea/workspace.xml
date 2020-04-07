@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9a1281-de48-4984-94a9-0f3c22bf43ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gratuation_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gratuation_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netspace/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netspace/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netspace/static/css/bootstrap.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/static/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/netspace/static/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/static/css/accounts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/static/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/static/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/netspace/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netspace/templates/view_movie.html" beforeDir="false" afterPath="$PROJECT_DIR$/netspace/templates/view_movie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netspace/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/netspace/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -44,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/netspace/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/netspace/static/css" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,8 +55,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\code\python\gratuation_project\netspace\static\js" />
       <recent name="F:\code\python\gratuation_project\netspace\static\css" />
+      <recent name="F:\code\python\gratuation_project\netspace\static\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -82,11 +82,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.easy_install" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,6 +97,8 @@
       <workItem from="1585569741650" duration="4929000" />
       <workItem from="1586071716034" duration="7250000" />
       <workItem from="1586155821707" duration="1658000" />
+      <workItem from="1586258333851" duration="5005000" />
+      <workItem from="1586264642520" duration="4000" />
     </task>
     <servers />
   </component>
@@ -134,9 +131,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="426" y="130" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585573511200" />
-    <state x="165" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586155828520">
+    <state x="165" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586264644105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="165" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586155828520" />
+    <state x="165" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586264644105" />
+    <state x="157" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1586261934227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="157" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586261934227" />
   </component>
 </project>
